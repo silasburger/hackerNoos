@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  font-family: Verdana, sans-serif;
+}
+
+html body {
+  background-color: #f6f6ef;
+}
+
+.navbar {
+  background-color: orange;
+  height: 30px;
+}
+
+#submit-wrapper {
+  /* display: none; */
+}
+
+input {
+  /* display: block; */
+}
+
+.url {
+  font-size: 10px;
+  color: gray;
+}
+
+#submit-wrapper {
+  margin: 10px;
+}
+
+#stories-wrapper {
+  margin: 20px;
+}
